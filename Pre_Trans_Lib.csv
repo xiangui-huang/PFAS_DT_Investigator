@@ -1,0 +1,101 @@
+﻿No,tree_No,reactant,product,condition
+0,1,N-EtFOSAA,N-EtFOSA,aerobic
+1,1,N-EtFOSA,FOSA,aerobic
+2,1,N-MeFOSAA,N-MeFOSA,aerobic
+3,1,N-MeFOSA,FOSA,aerobic
+4,1,FOSA,PFOS,aerobic
+5,2,4:2FTS,4:2FTOH,aerobic
+6,2,4:2FTOH,4:2FTCA,aerobic
+7,2,4:2FTCA,PFPeA,aerobic
+8,2,4:2FTCA,4:2FTUCA,aerobic
+9,2,4:2FTUCA,3:2FT Ketone,aerobic
+10,2,3:2FT Ketone,3:2sFTOH,aerobic
+11,2,3:2sFTOH,PFPrA,aerobic
+12,2,3:2sFTOH,PFBA,aerobic
+13,2,4:2FTUCA,3:3FTUCA,aerobic
+14,2,3:3FTUCA,3:3FTCA,aerobic
+15,2,3:3FTCA,3:2FTUCA,aerobic
+16,2,3:2FTUCA,PFPrA,aerobic
+17,3,6:2FTS,6:2FTOH,aerobic
+18,3,6:2FTOH,6:2FTCA,aerobic
+19,3,6:2FTCA,PFHpA,aerobic
+20,3,6:2FTCA,6:2FTUCA,aerobic
+21,3,6:2FTUCA,5:2FT Ketone,aerobic
+22,3,5:2FT Ketone,5:2sFTOH,aerobic
+23,3,5:2sFTOH,PFPeA,aerobic
+24,3,5:2sFTOH,PFHxA,aerobic
+25,3,6:2FTUCA,5:3FTUCA,aerobic
+26,3,5:3FTUCA,5:3FTCA,aerobic
+27,3,5:3FTCA,5:2FTUCA,aerobic
+28,3,5:2FTUCA,PFPeA,aerobic
+29,3,5:2FTUCA,PFBA,aerobic
+30,4,8:2FTS,8:2FTOH,aerobic
+31,4,8:2FTOH,8:2FTCA,aerobic
+32,4,8:2FTCA,PFNA,aerobic
+33,4,8:2FTCA,8:2FTUCA,aerobic
+34,4,8:2FTUCA,7:2FT Ketone,aerobic
+35,4,7:2FT Ketone,7:2sFTOH,aerobic
+36,4,7:2sFTOH,PFHpA,aerobic
+37,4,7:2sFTOH,PFOA,aerobic
+38,4,8:2FTUCA,7:3FTUCA,aerobic
+39,4,7:3FTUCA,7:3FTCA,aerobic
+40,4,7:3FTCA,7:2FTUCA,aerobic
+41,4,7:2FTUCA,PFHpA,aerobic
+42,5,DiSAmPAP,EtFOSE,aerobic
+43,5,EtFOSE,EtFoSE Aldehyde,aerobic
+44,5,EtFoSE Aldehyde,EtFOSAA,aerobic
+45,5,EtFOSAA,EtFOSA,aerobic
+46,5,EtFOSA,EtFOSA Alcohol,aerobic
+47,5,EtFOSA Alcohol,EtFOSA Aldehyde,aerobic
+48,5,EtFOSA Aldehyde,FOSAA,aerobic
+49,5,FOSAA,FOSA,aerobic
+50,5,FOSA,PFOSI,aerobic
+51,5,PFOSI,PFOS,aerobic
+52,6,8:2 FTOH,8:2 FTAL,aerobic
+53,6,8:2 FTAL,8:2 FTCA,aerobic
+54,6,8:2 FTCA,8:2 FTUCA,aerobic
+55,6,8:2 FTUCA,7:2 sFTOH,aerobic
+56,6,7:2 sFTOH,PFOA,aerobic
+57,6,7:2 sFTOH,7:2 FT ketone,aerobic
+58,6,7:2 FT ketone,2H-PFOA,aerobic
+59,6,8:2 FTUCA,7:3 U Acid,aerobic
+60,6,7:3 U Acid,3-OH-7:3 Acid,aerobic
+61,6,7:3 U Acid,PFHxA,aerobic
+62,6,7:3 U Acid,7:3 Acid,aerobic
+63,6,7:3 Acid,PFHpA,aerobic
+64,7,8:2 diPAP,8:2 monoPAP,aerobic
+65,7,8:2 monoPAP,8:2 FTOH,aerobic
+66,8,8:2 FTOH,8:2 FTAL,anaerobic
+67,8,8:2 FTAL,8:2 FTCA,anaerobic
+68,8,8:2 FTCA,8:2 FTUCA,anaerobic
+69,8,8:2 FTUCA,7:3 U Acid,anaerobic
+70,8,7:3 U Acid,7:3 Acid,anaerobic
+71,8,8:2 FTCA,7:3 Acid,anaerobic
+72,8,8:2 FTUCA,7:3 Acid,anaerobic
+73,8,7:3 Acid,PFOA,anaerobic
+74,8,7:3 Acid,7:2 olefin,anaerobic
+75,8,7:2 olefin,7:2 sFTOH,anaerobic
+76,8,7:2 sFTOH,PFOA,anaerobic
+77,8,7:2 sFTOH,PFHpA,anaerobic
+78,8,7:2 sFTOH,PFHxA,anaerobic
+79,8,7:2 sFTOH,PFPeA,anaerobic
+80,8,7:2 sFTOH,PFBA,anaerobic
+81,9,6:2 FTAB,6:2 FTSAm,aerobic
+82,9,6:2 FTAB,6:2 FTSA,aerobic
+83,9,6:2 FTAB,6:2 FTOH,aerobic
+84,9,6:2 FTSAm,6:2 FTSA,aerobic
+85,9,6:2 FTSA,6:2 FTOH,aerobic
+86,10,6:2 diPAP,6:2 monoPAP,aerobic
+87,10,6:2 monoPAP,6:2 FTOH,aerobic
+88,11,6:2 FTOH,6:2 FTAL,aerobic
+89,11,6:2 FTAL,6:2 FTCA,aerobic
+90,11,6:2 FTCA,6:2 FTUCA,aerobic
+91,11,6:2 FTUCA,5:2 ketone,aerobic
+92,11,5:2 ketone,5:2 sFTOH,aerobic
+93,11,5:2 sFTOH,PFHxA,aerobic
+94,11,5:2 sFTOH,PFPeA,aerobic
+95,11,6:2 FTUCA,5:3 U Acid,aerobic
+96,11,5:3 U Acid,5:3 Acid,aerobic
+97,11,5:3 U Acid,PFBA,aerobic
+98,11,5:3 U Acid,AOH 5:3 Acid,aerobic
+99,11,AOH 5:3 Acid,4:3 Acid,aerobic
