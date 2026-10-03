@@ -10,7 +10,6 @@ Reproduction, modification, or redistribution is not permitted without permissio
 
 XIANGUI HUANG
 
-Ben-Gurion University, Israel
-Chongqing University, Chongqing, China
+Ben-Gurion University, Israel; Chongqing University, Chongqing, China
 
 Contact: xianguihuang3@gmail.com
