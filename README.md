@@ -11,4 +11,4 @@ Ben-Gurion University, Israel
 
 Chongqing University, Chongqing, China
 
-Contact: xianguihaung3@gmail.com
+Contact: xianguihuang3@gmail.com
